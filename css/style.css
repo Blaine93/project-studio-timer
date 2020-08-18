@@ -38,6 +38,7 @@ html, body {
   width: 60px;
   height: 60px;
   margin: 0 15px;
+  text-align: center;
 }
 
 #controls button#stop {
