@@ -39,6 +39,8 @@ html, body {
   height: 60px;
   margin: 0 15px;
   text-align: center;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 #controls button#stop {
